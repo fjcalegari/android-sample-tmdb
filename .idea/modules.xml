@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TMDb.iml" filepath="$PROJECT_DIR$/TMDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-sample-tmdb.iml" filepath="$PROJECT_DIR$/android-sample-tmdb.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigation/navigation.iml" filepath="$PROJECT_DIR$/navigation/navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui-discover/ui-discover.iml" filepath="$PROJECT_DIR$/ui-discover/ui-discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui-home/ui-home.iml" filepath="$PROJECT_DIR$/ui-home/ui-home.iml" />
     </modules>
   </component>
 </project>
